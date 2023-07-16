@@ -1,0 +1,7 @@
+Arquivo de explicação das estruturas dos diretórios.
+
+Entities: pasta para criar os modelos(interfaces) que serão utilizadas,
+Repositories: classes para fazer a comunicação entre nosso app e os serviços externos
+UseCases: lógica da aplicação, demostrando o passo a passo, sem dizer o que vai utilizar externamente.
+Providers: pasta que irá guardar modelos criados e implementações de API's
+Implementations: lógica de serviços externos
